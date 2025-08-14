@@ -25,3 +25,8 @@ El sistema:
 En la terminal, estando en la carpeta del proyecto:
 ```bash
 python procesar_csv.py
+
+<img width="934" height="507" alt="captura_resultado" src="https://github.com/user-attachments/assets/0535c237-8703-4fed-9d9e-6e3df1558183" />
+
+
+
